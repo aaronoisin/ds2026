@@ -2,22 +2,26 @@
 
 One sentence on what this project finds out.
 
-- **Student ID:**
-- **Repository:** M5006-ds2026-studentnumber (or M6006-ds2026-studentnumber)
+- **Student ID:** 24000117484
+- **Repository:** M6006-ds2026-24000117484
 
 This project lives in `project/`. The repository is the whole course folder:
 `requirements.txt` and `.gitignore` are at the repository root, and the
 week folders hold the lab notebooks.
 
-## Research question
+## Research question:
+
+$$\boxed{\text{Relation between water ecological status and human health}}$$
 
 ## The real-world problem and who it affects
+
+$$\boxed{\text{The impacts of water quality, ecological health and human health}}$$
 
 ## Data
 
 Where the data comes from, how to get it, and what licence it is under.
 Put data files in `data/`: that folder is not committed to GitHub, so explain
-here how someone else can get the data.
+here how someone else can get the data
 
 ## Cleaning and preprocessing
 
